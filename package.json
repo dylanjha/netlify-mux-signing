@@ -5,5 +5,8 @@
   "repository": "git@github.com:dylanjha/netlify-mux-signing.git",
   "author": "Dylan Jhaveri <dylanjhaveri@gmail.com>",
   "license": "MIT",
-  "private": false
+  "private": false,
+  "dependencies": {
+    "@mux/mux-node": "^2.4.0"
+  }
 }
